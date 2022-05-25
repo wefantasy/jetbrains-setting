@@ -1,0 +1,6 @@
+<keymap version="1" name="VSCodeCustom" parent="VSCode">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SelectNextOccurrence" />
+</keymap>
